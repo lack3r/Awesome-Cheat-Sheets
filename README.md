@@ -15,7 +15,7 @@ As the title says.
 * [Machine Learning Done Wrong] (http://ml.posthaven.com/machine-learning-done-wrong)
 * [Practical machine learning tricks from the KDD 2011 best industry paper] (http://blog.david-andrzejewski.com/machine-learning/practical-machine-learning-tricks-from-the-kdd-2011-best-industry-paper/) 
 * [An Empirical Comparison of Supervised Learning Algorithms] (http://www.cs.cornell.edu/~caruana/ctp/ct.papers/caruana.icml06.pdf) - Paper
-* [Understanding the Bias-Variance Tradeoff ] (http://scott.fortmann-roe.com/docs/BiasVariance.html) - Nice presented
+* [Understanding the Bias-Variance Tradeoff ] (http://scott.fortmann-roe.com/docs/BiasVariance.html) - Presented Nicely
 
  ## Other
 * [R Markdown Cheet Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
