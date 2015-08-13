@@ -2,6 +2,7 @@
 As the title says. 
 
 ## Machine Learning
+* [The Only Probability Cheatsheet You'll Ever Need] (http://www.wzchen.com/s/probability_cheatsheet.pdf) - Really good resource
 * [Classical equations and diagrams in machine learning] (https://github.com/soulmachine/machine-learning-cheat-sheet) - Really good pdf!
 * [Machine learning cheat sheet] (https://github.com/soulmachine/machine-learning-cheat-sheet/raw/master/machine-learning-cheat-sheet.pdf) - Nice Cheat Sheet!
 * [Torch Cheetsheet] (https://github.com/torch/torch7/wiki/Cheatsheet)
